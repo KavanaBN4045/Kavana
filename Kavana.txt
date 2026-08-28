@@ -1,0 +1,4 @@
+A=10
+B=3
+C=A+B
+print(sum of A ans B is:,C)
